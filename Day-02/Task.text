@@ -1,0 +1,31 @@
+Task:
+-----
+	- Introduction to Python
+	- History of Python
+	- Applications of Python
+	- Advantages and Disadvantages
+
+Topics:
+-------
+	- Jumping Statements
+	- Inner Loops
+	- Functions and its types
+	- User Defined Function types
+
+Problem:
+========
+Even: 45x*3
+Odd: 24x*2+43y
+Input-1:
+    20
+    1
+Output-1:
+    Entered number 20 is Even
+    Given expression is 45x*3 value is: ?
+Input-2:
+    11
+    4
+    5
+Output-2:
+    Entered number 11 is Odd
+    Given expression is 24x*2+43y value is: ?
